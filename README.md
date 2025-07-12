@@ -8,18 +8,15 @@
 This Power BI dashboard presents comprehensive insights into Zomato's sales performance based on a dataset extracted from Kaggle. The focus is on key business metrics like sales trends, customer behavior, and city-wise performance.
 
 ## 🔍 Table of Contents
-
-1. [Dataset Description](#dataset-description)
-2. [Data Cleaning & Transformation](#data-cleaning--transformation)
-3. [Dashboard Features](#dashboard-features)
-4. [DAX Measures Used](#dax-measures-used)
-5. [Visualizations](#visualizations)
-6. [Conclusion](#conclusion)
+1. Dataset Description
+2. Data Cleaning & Transformation
+3. Dashboard Features
+4. DAX Measures Used
+5. Visualizations
+6. Conclusion
 
 ## 📂 Dataset Description
-
 The dataset contains customer orders and restaurant ratings across various cities, food types, and user demographics. Key attributes include:
-
 * `Order_Date`
 * `City`
 * `Sales_Amount`
